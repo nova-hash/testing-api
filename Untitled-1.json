@@ -1,0 +1,587 @@
+{
+  "userside": {
+    "user-90347s": {
+      "user": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "123-456-7890",
+        "company_name": "Example Company",
+        "city": "Example City",
+        "country_code": "+1",
+        "verify_code": "ABC123",
+        "active_user": 1,
+        "reference_code": "REF123",
+        "reseller_id": "RES456"
+      },
+      "blocknumber": [
+        {
+          "name": "BlockNumber1",
+          "value": "123"
+        },
+        {
+          "name": "BlockNumber2",
+          "value": "23453425"
+        },
+        {
+          "name": "BlockNumber3",
+          "value": "123"
+        },
+        {
+          "name": "BlockNumber4",
+          "value": "23453425"
+        },
+        {
+          "name": "BlockNumber5",
+          "value": "123"
+        },
+        {
+          "name": "BlockNumber6",
+          "value": "23453425"
+        }
+      ],
+      "service": {
+        "trail": 0,
+        "activity": 1
+      },
+      "send_detail": {
+        "text": "asgdyfvsauhdfvudsavfyusbfbvsdu",
+        "File_url": "asgdyfvsauhdfvudsavfyusbfbvsdu",
+        "url": "asgdyfvsauhdfvudsavfyusbfbvsdu"
+      }
+    },
+    "user-90348s": {
+      "user": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "mobile": "987-654-3210",
+        "company_name": "Sample Corp",
+        "city": "Sampletown",
+        "country_code": "+44",
+        "verify_code": "XYZ789",
+        "active_user": 1,
+        "reference_code": "REF456",
+        "reseller_id": "RES789"
+      },
+      "blocknumber": [
+        {
+          "name": "BlockNumber7",
+          "value": "456"
+        },
+        {
+          "name": "BlockNumber8",
+          "value": "7654321"
+        },
+        {
+          "name": "BlockNumber9",
+          "value": "456"
+        },
+        {
+          "name": "BlockNumber10",
+          "value": "7654321"
+        },
+        {
+          "name": "BlockNumber11",
+          "value": "456"
+        },
+        {
+          "name": "BlockNumber12",
+          "value": "7654321"
+        }
+      ],
+      "service": {
+        "trail": 1,
+        "activity": 0
+      },
+      "send_detail": {
+        "text": "dhgsjkfghlskghfjksdhfghsdjkfhgsdj",
+        "File_url": "dhgsjkfghlskghfjksdhfghsdjkfhgsdj",
+        "url": "dhgsjkfghlskghfjksdhfghsdjkfhgsdj"
+      }
+    },
+    "user-90349s": {
+      "user": {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "mobile": "555-123-4567",
+        "company_name": "Another Company",
+        "city": "New City",
+        "country_code": "+33",
+        "verify_code": "PQR456",
+        "active_user": 1,
+        "reference_code": "REF789",
+        "reseller_id": "RES012"
+      },
+      "blocknumber": [
+        {
+          "name": "BlockNumber13",
+          "value": "789"
+        },
+        {
+          "name": "BlockNumber14",
+          "value": "8765432"
+        },
+        {
+          "name": "BlockNumber15",
+          "value": "789"
+        },
+        {
+          "name": "BlockNumber16",
+          "value": "8765432"
+        },
+        {
+          "name": "BlockNumber17",
+          "value": "789"
+        },
+        {
+          "name": "BlockNumber18",
+          "value": "8765432"
+        }
+      ],
+      "service": {
+        "trail": 1,
+        "activity": 0
+      },
+      "send_detail": {
+        "text": "wertydfghjbnmvcsd",
+        "File_url": "wertydfghjbnmvcsd",
+        "url": "wertydfghjbnmvcsd"
+      }
+    },
+    "user-90350s": {
+      "user": {
+        "name": "Robert Brown",
+        "email": "robert.brown@example.com",
+        "mobile": "555-987-6543",
+        "company_name": "Brown Industries",
+        "city": "Cityville",
+        "country_code": "+55",
+        "verify_code": "DEF789",
+        "active_user": 1,
+        "reference_code": "REF246",
+        "reseller_id": "RES789"
+      },
+      "blocknumber": [
+        {
+          "name": "BlockNumber19",
+          "value": "987"
+        },
+        {
+          "name": "BlockNumber20",
+          "value": "87654321"
+        },
+        {
+          "name": "BlockNumber21",
+          "value": "987"
+        },
+        {
+          "name": "BlockNumber22",
+          "value": "87654321"
+        },
+        {
+          "name": "BlockNumber23",
+          "value": "987"
+        },
+        {
+          "name": "BlockNumber24",
+          "value": "87654321"
+        }
+      ],
+      "service": {
+        "trail": 0,
+        "activity": 1
+      },
+      "send_detail": {
+        "text": "qwertyuiopasdfghjklzxcvbnm",
+        "File_url": "qwertyuiopasdfghjklzxcvbnm",
+        "url": "qwertyuiopasdfghjklzxcvbnm"
+      }
+    },
+    "user-90351s": {
+      "user": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "mobile": "555-543-2109",
+        "company_name": "White Enterprises",
+        "city": "Villageville",
+        "country_code": "+66",
+        "verify_code": "GHI123",
+        "active_user": 1,
+        "reference_code": "REF789",
+        "reseller_id": "RES012"
+      },
+      "blocknumber": [
+        {
+          "name": "BlockNumber25",
+          "value": "543"
+        },
+        {
+          "name": "BlockNumber26",
+          "value": "21098765"
+        },
+        {
+          "name": "BlockNumber27",
+          "value": "543"
+        },
+        {
+          "name": "BlockNumber28",
+          "value": "21098765"
+        },
+        {
+          "name": "BlockNumber29",
+          "value": "543"
+        },
+        {
+          "name": "BlockNumber30",
+          "value": "21098765"
+        }
+      ],
+      "service": {
+        "trail": 0,
+        "activity": 1
+      },
+      "send_detail": {
+        "text": "zxcvbnmasdfghjklqwertyuiop",
+        "File_url": "zxcvbnmasdfghjklqwertyuiop",
+        "url": "zxcvbnmasdfghjklqwertyuiop"
+      }
+    },
+    "user-90352s": {
+      "user": {
+        "name": "Michael Johnson",
+        "email": "michael.johnson@example.com",
+        "mobile": "555-321-0987",
+        "company_name": "Johnson Enterprises",
+        "city": "Townsville",
+        "country_code": "+77",
+        "verify_code": "JKL456",
+        "active_user": 1,
+        "reference_code": "REF135",
+        "reseller_id": "RES246"
+      },
+      "blocknumber": [
+        {
+          "name": "BlockNumber31",
+          "value": "321"
+        },
+        {
+          "name": "BlockNumber32",
+          "value": "09876543"
+        },
+        {
+          "name": "BlockNumber33",
+          "value": "321"
+        },
+        {
+          "name": "BlockNumber34",
+          "value": "09876543"
+        },
+        {
+          "name": "BlockNumber35",
+          "value": "321"
+        },
+        {
+          "name": "BlockNumber36",
+          "value": "09876543"
+        }
+      ],
+      "service": {
+        "trail": 1,
+        "activity": 0
+      },
+      "send_detail": {
+        "text": "mnbvcxzlkjhgfdsapoiuytrewq",
+        "File_url": "mnbvcxzlkjhgfdsapoiuytrewq",
+        "url": "mnbvcxzlkjhgfdsapoiuytrewq"
+      }
+    },
+    "user-90353s": {
+      "user": {
+        "name": "Sophia Davis",
+        "email": "sophia.davis@example.com",
+        "mobile": "555-876-5432",
+        "company_name": "Davis Corp",
+        "city": "Citytown",
+        "country_code": "+88",
+        "verify_code": "MNO789",
+        "active_user": 1,
+        "reference_code": "REF567",
+        "reseller_id": "RES890"
+      },
+      "blocknumber": [
+        {
+          "name": "BlockNumber37",
+          "value": "876"
+        },
+        {
+          "name": "BlockNumber38",
+          "value": "54321098"
+        },
+        {
+          "name": "BlockNumber39",
+          "value": "876"
+        },
+        {
+          "name": "BlockNumber40",
+          "value": "54321098"
+        },
+        {
+          "name": "BlockNumber41",
+          "value": "876"
+        },
+        {
+          "name": "BlockNumber42",
+          "value": "54321098"
+        }
+      ],
+      "service": {
+        "trail": 0,
+        "activity": 1
+      },
+      "send_detail": {
+        "text": "poiuytrewqlkjhgfdsamnbvcxz",
+        "File_url": "poiuytrewqlkjhgfdsamnbvcxz",
+        "url": "poiuytrewqlkjhgfdsamnbvcxz"
+      }
+    },
+    "user-90354s": {
+      "user": {
+        "name": "Daniel Miller",
+        "email": "daniel.miller@example.com",
+        "mobile": "555-234-5678",
+        "company_name": "Miller Enterprises",
+        "city": "Villagetown",
+        "country_code": "+99",
+        "verify_code": "PQS123",
+        "active_user": 1,
+        "reference_code": "REF678",
+        "reseller_id": "RES345"
+      },
+      "blocknumber": [
+        {
+          "name": "BlockNumber43",
+          "value": "234"
+        },
+        {
+          "name": "BlockNumber44",
+          "value": "56789012"
+        },
+        {
+          "name": "BlockNumber45",
+          "value": "234"
+        },
+        {
+          "name": "BlockNumber46",
+          "value": "56789012"
+        },
+        {
+          "name": "BlockNumber47",
+          "value": "234"
+        },
+        {
+          "name": "BlockNumber48",
+          "value": "56789012"
+        }
+      ],
+      "service": {
+        "trail": 1,
+        "activity": 0
+      },
+      "send_detail": {
+        "text": "asdfghjklzxcvbnmqwertyuiop",
+        "File_url": "asdfghjklzxcvbnmqwertyuiop",
+        "url": "asdfghjklzxcvbnmqwertyuiop"
+      }
+    },
+    "custom_chatbot": {
+      "responses": [
+        {
+          "trigger": "greeting",
+          "reply": "Hello! How can I help you today?"
+        },
+        {
+          "trigger": "help",
+          "reply": "Sure, I can assist you with a variety of tasks. What do you need help with?"
+        },
+        {
+          "trigger": "product_info",
+          "reply": "To get information about our products, please visit [product page]."
+        },
+        {
+          "trigger": "pricing",
+          "reply": "For pricing details, you can check our pricing page or contact our sales team."
+        },
+        {
+          "trigger": "order_status",
+          "reply": "To check the status of your order, please provide your order ID."
+        },
+        {
+          "trigger": "contact_info",
+          "reply": "You can reach our customer support at support@example.com or call us at +1-123-456-7890."
+        },
+        {
+          "trigger": "feedback",
+          "reply": "We value your feedback! Please share your thoughts with us, and we'll strive to improve."
+        },
+        {
+          "trigger": "returns",
+          "reply": "For information about our return policy, please visit [return policy page]."
+        },
+        {
+          "trigger": "account_help",
+          "reply": "Need assistance with your account? Contact our support team for help."
+        },
+        {
+          "trigger": "tech_issues",
+          "reply": "Experiencing technical issues? Try restarting your device or contact our tech support for assistance."
+        },
+        {
+          "trigger": "membership",
+          "reply": "Explore the benefits of our membership program on our membership page."
+        },
+        {
+          "trigger": "lost_password",
+          "reply": "Lost your password? Use the 'Forgot Password' link on the login page to reset it."
+        },
+        {
+          "trigger": "new_products",
+          "reply": "Discover our latest products on our new arrivals page."
+        },
+        {
+          "trigger": "promo_codes",
+          "reply": "Looking for promo codes? Check our promotions page for the latest discounts."
+        },
+        {
+          "trigger": "delivery_time",
+          "reply": "The delivery time depends on your location. Check our shipping page for estimated delivery times."
+        },
+        {
+          "trigger": "order_cancel",
+          "reply": "To cancel your order, please contact our customer support as soon as possible."
+        },
+        {
+          "trigger": "product_availability",
+          "reply": "For product availability, check our website or contact our sales team."
+        },
+        {
+          "trigger": "upcoming_sales",
+          "reply": "Stay tuned for upcoming sales and special events on our promotions page."
+        },
+        {
+          "trigger": "loyalty_program",
+          "reply": "Join our loyalty program for exclusive rewards and discounts."
+        },
+        {
+          "trigger": "installation_help",
+          "reply": "Need help with product installation? Refer to our installation guide or contact our support team."
+        },
+        {
+          "trigger": "gift_cards",
+          "reply": "Gift cards are available for purchase on our website. Treat your loved ones!"
+        },
+        {
+          "trigger": "product_comparison",
+          "reply": "Compare our products on our website to find the best fit for your needs."
+        },
+        {
+          "trigger": "holiday_sales",
+          "reply": "Explore special discounts and offers during the holiday season on our promotions page."
+        },
+        {
+          "trigger": "contact_preference",
+          "reply": "You can customize your contact preferences in your account settings."
+        },
+        {
+          "trigger": "product_warranty",
+          "reply": "Our products come with a warranty. Check the warranty details on our warranty page."
+        },
+        {
+          "trigger": "website_issues",
+          "reply": "Experiencing issues with our website? Clear your browser cache or contact our support team."
+        },
+        {
+          "trigger": "customization_options",
+          "reply": "Explore customization options for select products on our website."
+        },
+        {
+          "trigger": "product_reviews",
+          "reply": "Read customer reviews to make informed decisions about our products."
+        },
+        {
+          "trigger": "social_media",
+          "reply": "Follow us on social media for the latest updates, promotions, and news."
+        },
+        {
+          "trigger": "order_tracking",
+          "reply": "Track your order by entering the tracking number on our order tracking page."
+        },
+        {
+          "trigger": "unsubscribe",
+          "reply": "To unsubscribe from our newsletters, use the 'Unsubscribe' link in the email or contact our support team."
+        }
+      ]
+    }
+  }
+}
+
+
+
+
+
+in mogodb node this type i want 
+
+"data": {
+"userside": {
+    "263485gyf": {
+      "user": {
+              "name": "John Doe",
+              "email": "john.doe@example.com",
+              "mobile": "123-456-7890",
+            },
+            "blocknumber": [
+              {
+                "name": "BlockNumber1",
+                "value": "123"
+              },
+              {
+                "name": "BlockNumber2",
+                "value": "23453425"
+              }
+            ]
+          },
+  },
+"adminside": {"263485gyf": {
+  "user": {
+          "name": "John Doe",
+          "email": "john.doe@example.com",
+          "mobile": "123-456-7890",
+        },
+        "blocknumber": [
+          {
+            "name": "BlockNumber1",
+            "value": "123"
+          },
+          {
+            "name": "BlockNumber2",
+            "value": "23453425"
+          }
+        ]
+      },
+},},
+"resellerside": {"263485gyf": {
+  "user": {
+          "name": "John Doe",
+          "email": "john.doe@example.com",
+          "mobile": "123-456-7890",
+        },
+        "blocknumber": [
+          {
+            "name": "BlockNumber1",
+            "value": "123"
+          },
+          {
+            "name": "BlockNumber2",
+            "value": "23453425"
+          }
+        ]
+      },
+}
